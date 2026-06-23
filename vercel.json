@@ -6,12 +6,5 @@
     "NODE_ENV": "production",
     "PORT": "3000"
   },
-  "framework": null,
-  "projects": {
-    "default": {
-      "link": {
-        "production": false
-      }
-    }
-  }
+  "framework": null
 }
