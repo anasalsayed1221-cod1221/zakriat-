@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Production
+dist
+build
+.next
+
+# Misc
+.DS_Store
+.env*.local
+.git
+.gitignore
+
+# Logs
+npm-debug.log
+pnpm-debug.log
+yarn-error.log
+
+# Test files
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx

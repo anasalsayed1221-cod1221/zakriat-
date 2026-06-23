@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm run build",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "env": {
+    "NODE_ENV": "production",
+    "PORT": "3000"
+  },
+  "framework": null,
+  "projects": {
+    "default": {
+      "link": {
+        "production": false
+      }
+    }
+  }
+}
